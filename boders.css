@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: rgb(19, 203, 203);
+    color: white;
+    font-size: large;
+    text-align: center;
+    font-size: 4em;
+    padding: 20px;
+}
